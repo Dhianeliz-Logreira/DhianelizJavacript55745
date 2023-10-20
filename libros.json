@@ -1,0 +1,23 @@
+[
+    
+    {
+        "titulo": "EL PSICOANALISTA",
+        "autor": "John K.",
+        "genero": "Ficción"
+    },
+    {
+        "titulo": "EL LABERINTO DE ESPIRITUS",
+        "autor": "Carlos R.",
+        "genero": "Suspenso"
+    },
+    {
+        "titulo": "EL TIEMPO DE COSTURAS",
+        "autor": "Maria D.",
+        "genero": "Romance"
+    },
+    {
+        "titulo": "LA MUJER DEL VIAJERO",
+        "autor": "Marcio T.",
+        "genero": "Romance"
+    }
+]
